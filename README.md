@@ -17,5 +17,6 @@ Luan Da Costa Gotardo - Curso PHP COMPOSER DEPENDÊNCIAS, AUTOLOAD E PUBLICAÇÃ
 
 
 ![alt text](png/JS.png)
-![alt text](png/php.png)
 ![alt text](png/html.png)
+![alt text](png/php.png)
+
