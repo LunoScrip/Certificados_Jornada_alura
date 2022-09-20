@@ -10,6 +10,7 @@ Data de inicio 15/09/2022
 
 
 * Http: Entendendo a web por baixo dos panos
+* HTML5 e CSS3 parte 1: crie uma página da Web
 * JavaScript: tipos, variáveis e funções
 
  Curso | Url De Comprovação 
