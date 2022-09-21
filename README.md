@@ -1,5 +1,5 @@
 # Projeto Expecialista Front-End
-Aqui sera postados todos os meus certificados
+Aqui será postados todos os meus certificados
 
 Data de inicio 15/09/2022
 
