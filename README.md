@@ -13,6 +13,7 @@ Data de inicio 15/09/2022
 HTTP: Entendendo a web por baixo dos panos   | <a href="https://cursos.alura.com.br/certificate/987408cf-ca6d-471a-b45c-088dfe123b77">Comprovante </a>
 HTML5 e CSS3 parte 1: crie uma página da Web | <a href="https://cursos.alura.com.br/certificate/58f2de94-8361-4d3f-884f-739404f8115d">Comprovante </a>
 JavaScript: tipos, variáveis e funções  | <a href="https://cursos.alura.com.br/certificate/c53c3eca-e374-4dc9-a2ff-519c672eb737">Comprovante </a>
+HTML5 e CSS3 parte 2: posicionamento, listas e navegação | <a href="https://cursos.alura.com.br/certificate/2bbf6cc4-e5a8-48ba-ad06-1fe3607082da">Comprovante </a>
 
 
 
