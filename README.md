@@ -32,7 +32,7 @@ Php: Composer dependências, autoload e publicação  | <a href="https://cursos.
  Curso | Url De Comprovação 
  --- | ---
 Amazon Lightsail: descomplicando a nuvem | <a href="https://cursos.alura.com.br/certificate/9d00a281-56a9-40a6-a86a-b8ff934fea75">Comprovante </a>
-
+Redes parte 1: conceitos e prática | <a href="https://cursos.alura.com.br/certificate/3ca1a8b9-9852-473b-811b-cce2932ed482">Comprovante </a>
 
 
 
