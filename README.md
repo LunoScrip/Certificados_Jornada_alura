@@ -37,6 +37,12 @@ Amazon Lightsail: descomplicando a nuvem | <a href="https://cursos.alura.com.br/
 Redes parte 1: conceitos e prática | <a href="https://cursos.alura.com.br/certificate/3ca1a8b9-9852-473b-811b-cce2932ed482">Comprovante </a>
 HTTP: Entendendo a web por baixo dos panos   | <a href="https://cursos.alura.com.br/certificate/987408cf-ca6d-471a-b45c-088dfe123b77">Comprovante </a>
 
+### Outros 
+ Curso | Url De Comprovação 
+ --- | ---
+ Quality Assurance: plano de testes e gestão de bugs | <a href="https://cursos.alura.com.br/certificate/0dd6f49f-b866-4cee-a083-425f63cb31a0">Comprovante </a>
+
+
 
 
 
