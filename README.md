@@ -13,6 +13,7 @@ Data de inicio 15/09/2022
 HTML5 e CSS3 parte 1: crie uma página da Web | <a href="https://cursos.alura.com.br/certificate/58f2de94-8361-4d3f-884f-739404f8115d">Comprovante </a>
 HTML5 e CSS3 parte 2: posicionamento, listas e navegação | <a href="https://cursos.alura.com.br/certificate/2bbf6cc4-e5a8-48ba-ad06-1fe3607082da">Comprovante </a>
 HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas | <a href="https://cursos.alura.com.br/certificate/c329661a-647a-4f14-87fa-41d48d62fe9b">Comprovante </a>
+HTML5 e CSS3 parte 4: avançando no CSS | <a href="https://cursos.alura.com.br/certificate/b3eaa834-f5cd-4730-8231-6ab52ce6e3a6">Comprovante </a>
 JavaScript: tipos, variáveis e funções  | <a href="https://cursos.alura.com.br/certificate/c53c3eca-e374-4dc9-a2ff-519c672eb737">Comprovante </a>
 
 
