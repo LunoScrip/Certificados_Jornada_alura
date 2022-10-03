@@ -44,7 +44,7 @@ Amazon Lightsail: descomplicando a nuvem | <a href="https://cursos.alura.com.br/
  --- | ---
  Quality Assurance: plano de testes e gestão de bugs | <a href="https://cursos.alura.com.br/certificate/0dd6f49f-b866-4cee-a083-425f63cb31a0">Comprovante </a>
 
-### Outros
+### Git
  Curso | Url De Comprovação 
  --- | ---
  Git e Github: controle e compartilhe seu código | <a href="https://cursos.alura.com.br/certificate/c1c6e605-a1c6-42dd-a6e5-7977d552be68">Comprovante </a>
