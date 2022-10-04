@@ -1,4 +1,4 @@
-# Projeto "Me tornando Especialista" 
+# Projeto "Alura" 
 Aqui será postados todos os meus certificados
 
 Data de inicio 15/09/2022
