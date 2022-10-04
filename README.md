@@ -3,6 +3,12 @@ Aqui será postados todos os meus certificados
 
 Data de inicio 15/09/2022
 
+- <a href="https://github.com/LunoScrip/Certificados_Jornada_alura#frontend">FrontEnd</a>
+- <a href="https://github.com/LunoScrip/Certificados_Jornada_alura#backend">BackEnd</a>
+- <a href="https://github.com/LunoScrip/Certificados_Jornada_alura#devops">DevOps</a>
+- <a href="https://github.com/LunoScrip/Certificados_Jornada_alura#ux--design">UX & Design</a>
+- <a href="https://github.com/LunoScrip/Certificados_Jornada_alura#qa">QA</a>
+- <a href="https://github.com/LunoScrip/Certificados_Jornada_alura#git">Git</a>
 
 # cursos
 
