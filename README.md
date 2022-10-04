@@ -39,6 +39,11 @@ HTTP: Entendendo a web por baixo dos panos   | <a href="https://cursos.alura.com
 Amazon Lightsail: descomplicando a nuvem | <a href="https://cursos.alura.com.br/certificate/9d00a281-56a9-40a6-a86a-b8ff934fea75">Comprovante </a>
 
 
+### UX & Design
+
+ Curso | Url De Comprovação 
+ --- | ---
+ Figma: projete sites para diversas telas | <a href="https://cursos.alura.com.br/certificate/17b9706c-96d1-4976-b7df-e9cf58462fb7">Comprovante </a>
 ### QA
  Curso | Url De Comprovação 
  --- | ---
