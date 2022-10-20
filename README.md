@@ -35,6 +35,7 @@ HTML5 e CSS3 parte 4: avançando no CSS | <a href="https://cursos.alura.com.br/c
  --- | ---
 Php: Composer dependências, autoload e publicação  | <a href="https://cursos.alura.com.br/certificate/cd539893-f27e-47b0-ae6e-01aa43662938">Comprovante </a>
 JavaScript: tipos, variáveis e funções  | <a href="https://cursos.alura.com.br/certificate/c53c3eca-e374-4dc9-a2ff-519c672eb737">Comprovante </a>
+JavaScript: consumindo e tratando dados de uma API | <a href="https://cursos.alura.com.br/certificate/3c2427c2-2d4e-4992-b122-0fedb2b622a8">Comprovante </a>
 
 ### DevOps
 
