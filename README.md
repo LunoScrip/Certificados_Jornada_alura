@@ -22,6 +22,7 @@ HTML5 e CSS3 parte 1: crie uma página da Web | <a href="https://cursos.alura.co
 HTML5 e CSS3 parte 2: posicionamento, listas e navegação | <a href="https://cursos.alura.com.br/certificate/2bbf6cc4-e5a8-48ba-ad06-1fe3607082da">Comprovante </a>
 HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas | <a href="https://cursos.alura.com.br/certificate/c329661a-647a-4f14-87fa-41d48d62fe9b">Comprovante </a>
 HTML5 e CSS3 parte 4: avançando no CSS | <a href="https://cursos.alura.com.br/certificate/b3eaa834-f5cd-4730-8231-6ab52ce6e3a6">Comprovante </a>
+Arquitetura CSS: descomplicando os problemas |  <a href="https://cursos.alura.com.br/certificate/ae192946-4dd9-49b6-83be-b26a6ed28c03">Comprovante </a>
 ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨| 
 
 
