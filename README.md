@@ -41,7 +41,7 @@ JavaScript: consumindo e tratando dados de uma API | <a href="https://cursos.alu
 Node.js: API Rest com Express e MongoDB | <a href="https://cursos.alura.com.br/certificate/a8036fab-badc-4661-9299-49b7f72fcc79">Comprovante </a>
 ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨| 
 ### DevOps
-
+ 
 
 
  Curso | Url De Comprovação 
