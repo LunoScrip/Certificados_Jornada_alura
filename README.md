@@ -35,6 +35,7 @@ Arquitetura CSS: descomplicando os problemas |  <a href="https://cursos.alura.co
  Curso | Url De Comprovação 
  --- | ---
 Php: Composer dependências, autoload e publicação  | <a href="https://cursos.alura.com.br/certificate/cd539893-f27e-47b0-ae6e-01aa43662938">Comprovante </a>
+PHP: conceitos, lidando com dados, loops e mais  | <a href="https://cursos.alura.com.br/certificate/18b518f4-1c70-4e1a-aa81-e7aae4bc597a">Comprovante </a>
 JavaScript: tipos, variáveis e funções  | <a href="https://cursos.alura.com.br/certificate/c53c3eca-e374-4dc9-a2ff-519c672eb737">Comprovante </a>
 JavaScript: consumindo e tratando dados de uma API | <a href="https://cursos.alura.com.br/certificate/3c2427c2-2d4e-4992-b122-0fedb2b622a8">Comprovante </a>
 Node.js: API Rest com Express e MongoDB | <a href="https://cursos.alura.com.br/certificate/a8036fab-badc-4661-9299-49b7f72fcc79">Comprovante </a>
