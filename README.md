@@ -23,6 +23,7 @@ HTML5 e CSS3 parte 2: posicionamento, listas e navegação | <a href="https://cu
 HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas | <a href="https://cursos.alura.com.br/certificate/c329661a-647a-4f14-87fa-41d48d62fe9b">Comprovante </a>
 HTML5 e CSS3 parte 4: avançando no CSS | <a href="https://cursos.alura.com.br/certificate/b3eaa834-f5cd-4730-8231-6ab52ce6e3a6">Comprovante </a>
 Arquitetura CSS: descomplicando os problemas |  <a href="https://cursos.alura.com.br/certificate/ae192946-4dd9-49b6-83be-b26a6ed28c03">Comprovante </a>
+Webpack: trabalhando com módulos na sua webapp |  <a href="https://cursos.alura.com.br/certificate/4e881d79-ee27-473f-a33f-3c2c2ee4f46a">Comprovante </a>
 ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨| 
 
 
@@ -38,6 +39,7 @@ Php: Composer dependências, autoload e publicação  | <a href="https://cursos.
 PHP: conceitos, lidando com dados, loops e mais  | <a href="https://cursos.alura.com.br/certificate/18b518f4-1c70-4e1a-aa81-e7aae4bc597a">Comprovante </a>
 JavaScript: tipos, variáveis e funções  | <a href="https://cursos.alura.com.br/certificate/c53c3eca-e374-4dc9-a2ff-519c672eb737">Comprovante </a>
 JavaScript: consumindo e tratando dados de uma API | <a href="https://cursos.alura.com.br/certificate/3c2427c2-2d4e-4992-b122-0fedb2b622a8">Comprovante </a>
+JavaScript: Arrays  | <a href="https://cursos.alura.com.br/certificate/4e881d79-ee27-473f-a33f-3c2c2ee4f46a">Comprovante </a>
 Node.js: API Rest com Express e MongoDB | <a href="https://cursos.alura.com.br/certificate/a8036fab-badc-4661-9299-49b7f72fcc79">Comprovante </a>
 ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨| 
 ### DevOps
